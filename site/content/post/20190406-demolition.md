@@ -11,6 +11,6 @@ I pulled plaster off the laths. The lath and plaster is too damaged to be worth 
 
 {{< figure src="/images/photo_2019-04-06_13-56-45.jpg" title="..." >}}
 
-{{< figure src="/images/photo_2019-04-06_15-12-55.jpg" title="Done!" >}}
+{{< figure src="/images/photo_2019-04-06_15-12-55.jpg" title="Almost 3 hours later..." >}}
 
-Done enough for the day anyway. 
+Done enough for the day anyway, then home to the kids.
