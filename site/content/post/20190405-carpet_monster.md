@@ -17,4 +17,6 @@ This thing was heavy and difficult to managed. It dropped an impressive amount o
 
 I got things a bit tidier before I broke the oven (and wasted a bunch of time cleaning up broken glass). I got almost all the underlay up and most of the lino. The remaining lino is still glued down fairly well - might need a heat gun to sort it out.
 
-{{< figure src="/images/photo_2019-04-05_16-33-00.jpg" title="Did I mention it was dusty?" >}}
+{{< figure src="/images/photo_2019-04-05_16-33-00.jpg" title="New vs Used" >}}
+
+This is just from pulling up the carpets and sweeping away (some of) the dust. Did I mention there was dust?
