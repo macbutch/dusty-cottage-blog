@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "The Dusty Cottage"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -30,7 +30,7 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-  name = "Dust Cottage Blog"
+  name = "Dusty Cottage Blog"
   weight = -120
   identifier = "blog"
   url = "/"
