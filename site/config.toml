@@ -31,7 +31,7 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-  name = "Dusty Cottage Blog"
+  name = "Blog"
   weight = -120
   identifier = "blog"
   url = "/"
