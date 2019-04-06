@@ -17,4 +17,6 @@ Exploring the cream room we found some unexpected loot: old clothes and books et
 
 Mark setup Lizzie to climb a tree.
 
+---
 
+The kids made up their own names for the cottage. Tristan called it "the dirty house" and Lizzie was a bit more diplomatic with "the dusty cottage". Can't argue that it's not dusty!
