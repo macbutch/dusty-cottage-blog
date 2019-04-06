@@ -11,7 +11,8 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/cover.jpg"
+  #cover = "images/cover.jpg"
+  cover = "images/photo_2019-04-02_20-35-06.jpg"
   author = "Butchirvings"
   authorlocation = "Australia"
   authorwebsite = "http://dustycottage.netlify.com"
