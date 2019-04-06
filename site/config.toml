@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "The Dusty Cottage"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -12,9 +12,9 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
+  author = "Butchirvings"
+  authorlocation = "Australia"
+  authorwebsite = "http://dustycottage.netlify.com"
   bio= "my bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
