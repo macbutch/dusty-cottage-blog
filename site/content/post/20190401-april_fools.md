@@ -9,8 +9,12 @@ Mark did the pre-settlement inspectionn while the kids played in Merimbula on th
 
 We brought down a bunch of kitchen stuff we'd got for free in Canberra (bench tops, appliances etc) and Frank helped us unload them.
 
+{{< figure src="/images/photo_2019-04-02_23-01-50.jpg" title="80 years!" >}}
+
 We started digging up old carpets - found they'd been laid on top of older linoleum. Old newspapers under lino - dating from 1939 including April 1, 1939. Exactly 80 years!
 
 Exploring the cream room we found some unexpected loot: old clothes and books etc. 
 
 Mark setup Lizzie to climb a tree.
+
+
