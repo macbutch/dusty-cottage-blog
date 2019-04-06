@@ -9,7 +9,7 @@ I brought down a few more bits from Canberra (oven door, laundry sink etc) and w
 
 {{< figure src="/images/photo_2019-04-05_16-12-43.jpg" title="Get it out!" >}}
 
-This thing dropped an impressive amount of dirt and dust and a bone on the way out.
+This thing was heavy and difficult to managed. It dropped an impressive amount of dirt and dust (and an old chop bone) on the way out. Pretty gross. Frank said that there were flies flocking to it outside.
 
 {{< figure src="/images/photo_2019-04-05_16-13-03.jpg" title="..." >}}
 
